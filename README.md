@@ -1,6 +1,8 @@
 # CafeX-AppDesign
 Prototipagem de alta fidelidade para apresentação no Hackaton Avança Café 2026
 
+![alt text](image.png)
+
 # Guia de Design Consciente com IA 
 
 > Este documento explica **como** chegamos a um arquivo como o `DESIGN-CAFEX.md` (tokens em YAML + especificação em Markdown) e **por que** cada etapa existe. Ele serve hoje como guia de boas práticas e, no futuro, como o roteiro de perguntas de uma skill que entrevista o usuário e gera um documento equivalente para qualquer novo projeto.
